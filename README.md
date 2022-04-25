@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @atfranco
+Arthur Franco
+
 - Learning MERN stack
 - https://arthurdev.tech
